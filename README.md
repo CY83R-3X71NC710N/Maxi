@@ -13,5 +13,6 @@ Maxi takes into account several different factors and places an emphasize on a f
 6. Our custom schedule template (Or you can provide your own if a poweruser)
 7. What is healthy (What is healthy for you to do for your age personally and based on your requirements)
 8. Conflicts (Previous conflicts in a schedule for example, micromanaging, demotivated, etc.)
+9. Adaptive Eating Times (Whether you need adaptive eating times or not, for instance, you cannot decide when to eat or it is difficult for you to have food when you want to)
 
 All of your responses to this will be saved to a document titled "schedule.txt" as well as the schedule generated.
